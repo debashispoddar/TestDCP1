@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: dell
+Build-Jdk: 17.0.3
+Main-Class: com.deba.TestJava
+Created-By: Maven Integration for Eclipse
+
