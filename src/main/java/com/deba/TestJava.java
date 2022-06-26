@@ -4,7 +4,7 @@ public class TestJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			System.out.println("Debashis Main 3 ");
+			System.out.println("Debashis Main 4 from Eclipse ");
 	}
 
 }
